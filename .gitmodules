@@ -1,0 +1,6 @@
+[submodule "fmt"]
+	path = fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "glm"]
+	path = glm
+	url = https://github.com/g-truc/glm.git
